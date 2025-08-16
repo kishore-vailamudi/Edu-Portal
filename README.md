@@ -1,11 +1,5 @@
 # EdTech Portal
 
-## The Demonstration video of the project is in the Youtube
-https://youtu.be/j45Pi8nYEkg
-
-## Developed During
-This project was developed during a hackathon at **IIIT Kanchipuram**.
-
 ## Problem Statement
 Traditional online learning platforms often fail to provide personalized learning experiences. Students struggle to find relevant study materials, track their progress, and identify weak areas. A lack of adaptive learning mechanisms leads to inefficient study habits and decreased engagement.
 
